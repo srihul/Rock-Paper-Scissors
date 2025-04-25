@@ -9,9 +9,6 @@ A simple Rock Paper Scissors game built using Python and Tkinter.
 - Win/lose/draw result display
 - Reset functionality
 
-## 🖼️ Screenshots
-
-
 ## ▶️ How to Run
 
 1. Make sure Python is installed.
