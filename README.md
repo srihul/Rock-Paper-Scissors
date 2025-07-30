@@ -27,5 +27,3 @@ A simple Rock Paper Scissors game built using Python and Tkinter.
 - Python 3
 - Tkinter
 
-## 📄 License
-[MIT](LICENSE)
